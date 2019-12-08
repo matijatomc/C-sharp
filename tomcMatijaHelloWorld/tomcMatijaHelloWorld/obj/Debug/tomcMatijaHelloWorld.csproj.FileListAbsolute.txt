@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaHelloWorld\tomcMatijaHelloWorld\bin\Debug\tomcMatijaHelloWorld.exe.config
+C:\Users\Matija\source\repos\tomcMatijaHelloWorld\tomcMatijaHelloWorld\bin\Debug\tomcMatijaHelloWorld.exe
+C:\Users\Matija\source\repos\tomcMatijaHelloWorld\tomcMatijaHelloWorld\bin\Debug\tomcMatijaHelloWorld.pdb
+C:\Users\Matija\source\repos\tomcMatijaHelloWorld\tomcMatijaHelloWorld\obj\Debug\tomcMatijaHelloWorld.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaHelloWorld\tomcMatijaHelloWorld\obj\Debug\tomcMatijaHelloWorld.exe
+C:\Users\Matija\source\repos\tomcMatijaHelloWorld\tomcMatijaHelloWorld\obj\Debug\tomcMatijaHelloWorld.pdb
