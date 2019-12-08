@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaConvert\tomcMatijaConvert\bin\Debug\tomcMatijaConvert.exe.config
+C:\Users\Matija\source\repos\tomcMatijaConvert\tomcMatijaConvert\bin\Debug\tomcMatijaConvert.exe
+C:\Users\Matija\source\repos\tomcMatijaConvert\tomcMatijaConvert\bin\Debug\tomcMatijaConvert.pdb
+C:\Users\Matija\source\repos\tomcMatijaConvert\tomcMatijaConvert\obj\Debug\tomcMatijaConvert.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaConvert\tomcMatijaConvert\obj\Debug\tomcMatijaConvert.exe
+C:\Users\Matija\source\repos\tomcMatijaConvert\tomcMatijaConvert\obj\Debug\tomcMatijaConvert.pdb
